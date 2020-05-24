@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561050240 source:c:\users\demon\binomhesaplayici\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
